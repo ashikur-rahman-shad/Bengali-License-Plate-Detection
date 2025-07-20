@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+dataset/
+Bangla_License_Plate/
+yolov12/
+.conda/
+.vscode/
