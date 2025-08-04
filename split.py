@@ -8,7 +8,7 @@ from collections import defaultdict
 
 # Path to your input dataset folder containing both images and label files
 # Example: 'my_dataset_raw'
-input_dataset_folder = 'Bangla_License_Plate'
+input_dataset_folder = 'Bangladeshi_Vehicle_Image_with_visible_license_plate'
 
 # Path to the base folder where the split dataset will be created
 # Example: 'my_dataset_split_yolo'

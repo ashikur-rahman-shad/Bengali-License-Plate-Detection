@@ -12,7 +12,7 @@ cd yolov12
 
 ### Step 2: Download Dataset
 
-1. Download the dataset from https://www.kaggle.com/datasets/pkdarabi/medical-image-dataset-brain-tumor-detection/discussion/476892
+1. Download the dataset from https://www.kaggle.com/datasets/arstrxshad/banglabengali-license-plate-with-number-detection
 2. Extract
 3. Copy the 
 
